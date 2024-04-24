@@ -1,0 +1,32 @@
+.nav-link {
+  color: white;
+  
+}
+#menubar{
+  background-color: rgb(48, 107, 48);
+}
+.text{
+  padding:25px;
+}
+.img{
+  width: 75%;
+}
+.logo{
+  width: 20%;
+  border-radius: 50%;
+}
+.head{
+  color: blue;
+}
+.product{
+  padding: 25px;
+}
+.contactpage{
+  text-align: left;
+  padding: 25px;
+}
+#fotter{
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
