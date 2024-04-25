@@ -24,6 +24,8 @@ function HomeComponent(){
             </div>
            
             <p>Our manufacturing process is optimised for processing best quality, natural organic fertilizer, that contains best ration of macro-nutrients like<b>nitrogen (N), phosphorus (P) and potassium (K) or NPK and micronutrients like Calcium, Sulphur, Magnesium, Iron, Zinc, Boron, Manganese, Copper & Molybdenum</b>.Our vermicompost contains humus which significantly affects the bulk density of soil and contributes to its retention of moisture and nutrients.</p>
+            <div class='row'>
+            <div class='col-9'>
             <div>
                 <h4 className="head">How Does Vermicompost Aid the Use of Chemical Fertilizers?</h4>
                 <p>Chemical fertilizers have been a staple with conventional farmers across India and the world since the industrial revolution. However, it has been observed that chemical fertilizers may tend to damage soil quality and hamper plant quality in the long run. This is where vermicompost fertilizers come to the rescue for every type of farmland across India. Vermicompost fertilizers can be used to support the use of chemical fertilizers or even as an alternative to it to ensure that the natural fertility of the soil is maintained over the years.</p>
@@ -38,7 +40,8 @@ function HomeComponent(){
                     <li>Cleans up contaminated soil.</li>
                     <li>Protects plants from harsh climatic conditions.</li>
                 </ul>
-            </div>
+            </div></div>
+            <div class='col-3'><img src='vermi.jpg' class='vermi'/></div></div>
         </div>
     )
 }
