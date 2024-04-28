@@ -1,4 +1,5 @@
 import ContactComponent from "./contact";
+import FotterComponent from "./fotter";
 import HomeComponent from "./home";
 import ProductComponent from "./product";
 
@@ -31,6 +32,7 @@ function MenuComponent(){
 <HomeComponent/>
 <ProductComponent/>
 <ContactComponent/>
+<FotterComponent/>
         </div>
     )
 }
