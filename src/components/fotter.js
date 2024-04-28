@@ -1,6 +1,6 @@
 function FotterComponent(){
     return(
-        <div  id='fotter'>
+        <div class='row' id='fotter'>
             <div class='col-6'>
                 <div class=" d-flex justify-content-start " style={{padding:'10px'}}><div>
                 <div><h5 style={{textAlign:'left'}}>AKSHAYA FARMS LIMITED</h5></div><br></br>
