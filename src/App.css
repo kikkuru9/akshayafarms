@@ -36,6 +36,8 @@ body{
   background-color: black;
   color: white;
   padding: 10px;
+  display: flex;
+  flex-direction: row;
   
 }
 .vermi{
@@ -46,6 +48,7 @@ body{
   #fotter{
     padding:5px ;
     flex-direction: column;
+    
   }
   
 }
