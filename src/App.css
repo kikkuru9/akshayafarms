@@ -44,11 +44,18 @@ body{
   width: 75%;
 }
 
-@media screen  and (max-width:376px){
+
+
+
+@media screen  and  (max-width:767px){
   #fotter{
     padding:5px ;
     flex-direction: column;
     
+  }
+  #logos{
+    width: 50%;
+    border-radius: 50%;
   }
   
 }
